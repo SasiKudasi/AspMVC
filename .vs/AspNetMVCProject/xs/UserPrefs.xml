@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{0B3C25E8-9866-4400-9B2D-7E08A49AFC51}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AspNetMVCProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetMVCProject/Views/Books/Index.cshtml">
+    <Files>
+      <File FileName="AspNetMVCProject/Program.cs" Line="43" Column="1" />
+      <File FileName="AspNetMVCProject/Views/Books/Index.cshtml" Line="50" Column="30" />
+      <File FileName="AspNetMVCProject/Controllers/BooksController.cs" Line="46" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AspNetMVCProject" expanded="True">
+            <Node name="AspNetMVCProject">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Books" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
